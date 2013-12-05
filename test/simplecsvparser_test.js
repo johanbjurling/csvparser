@@ -1,6 +1,6 @@
 'use strict';
 
-var csvparser = require('../lib/csvparser.js');
+var csvparser = require('../lib/simplecsvparser.js');
 
 exports.parse = function(test) {
   var testString = "a;b;c;\n1;2;3";
