@@ -1,12 +1,12 @@
 {
   "author": "Johan Bjurling",
-  "name": "csvparser",
+  "name": "simplecsvparser",
   "description": "A VERY simple csv parser module..",
   "version": "0.1.0",
   "repository": {
-    "url": ""
+    "url": "https://github.com/johanbjurling/csvparser"
   },
-  "main": "./lib/csvparser",
+  "main": "./lib/simplecsvparser",
   "keywords": [
     "csv",
     "parser"

@@ -1,4 +1,4 @@
-qsgeocoder
+simplecsvparser
 -------------
 
-This is a simple node module for converting addresses to coordinates.
+This is a very simple csv parser module.
