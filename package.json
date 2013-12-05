@@ -1,0 +1,17 @@
+{
+  "author": "Johan Bjurling",
+  "name": "csvparser",
+  "description": "A VERY simple csv parser module..",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/csvparser",
+  "keywords": [
+    "csv",
+    "parser"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}
